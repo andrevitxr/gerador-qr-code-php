@@ -10,7 +10,7 @@ Este projeto é uma aplicação simples para gerar códigos QR usando PHP, basea
 
 Comece clonando o repositório para o seu dispositivo. Abra o terminal e execute o seguinte comando:
 
-git clone https://github.com/andrevitxr/gerador-qr-code-php.git
+`git clone https://github.com/andrevitxr/gerador-qr-code-php.git`
 
 ### 2. Crie a pasta
 
