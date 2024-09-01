@@ -14,7 +14,7 @@ git clone https://github.com/andrevitxr/gerador-qr-code-php.git
 
 ### 2. Crie a pasta
 
-Navegue até o local do repositório e dentro dele crie a pasta **files/**, é lá que as imagens dos Codigos QR gerados pelo site ficarão salvas.
+Navegue até o local do repositório e dentro dele crie a pasta: **files/**, é lá que as imagens dos Codigos QR gerados pelo site ficarão salvas.
 
 ### 3. Execução
 
@@ -34,14 +34,3 @@ Se você estiver usando Apache, coloque seu arquivo PHP no diretório de documen
 ├── style.css                # Estilização do site
 │
 └── README.md                # Este arquivo
-
-
-
-
-
-
-
-
-
-
-
