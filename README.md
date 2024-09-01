@@ -22,6 +22,7 @@ Se você estiver usando Apache, coloque seu arquivo PHP no diretório de documen
 
 ## 📁 Estrutura do Projeto
 
+```bash
 /gerador-qr-code-php
 │
 ├── files/                   # Pasta para salvar imagens dos códigos QR
