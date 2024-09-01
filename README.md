@@ -18,7 +18,7 @@ Navegue até o local do repositório e dentro dele crie a pasta: **files/**, é 
 
 ### 3. Execução
 
-Se você estiver usando Apache, coloque seu arquivo PHP no diretório de documentos do servidor (por exemplo, C:\wamp64\www\ ou C:\xampp\htdocs em XAMPP no Windows). Você pode acessar o arquivo PHP através do navegador com uma URL como: http://localhost/qrcode
+Se você estiver usando Apache, coloque seu arquivo PHP no diretório de documentos do servidor (por exemplo, C:\wamp64\www\ ou C:\xampp\htdocs\ em XAMPP no Windows). Você pode acessar o arquivo PHP através do navegador com uma URL como: http://localhost/gerador-qr-code-php (você pode renomear o nome da pasta para facilitar na hora de acessar o link).
 
 ## 📁 Estrutura do Projeto
 
